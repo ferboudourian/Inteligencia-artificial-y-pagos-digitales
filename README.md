@@ -1,1 +1,2 @@
 # Inteligencia-artificial-y-pagos-digitales
+La voz se ha convertido en una nueva herramienta para transacciones financieras, eliminando fricciones en el proceso de pago. Gracias a la autenticación biométrica, los usuarios pueden realizar compras o transferencias con solo hablar. Este avance mejora la accesibilidad, especialmente para personas con discapacidades visuales o motoras. La combinación con IA y blockchain podría reforzar aún más su seguridad.
